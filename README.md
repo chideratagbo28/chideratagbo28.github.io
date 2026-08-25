@@ -12,4 +12,4 @@ threat intelligence, AI-driven intrusion detection, and cloud security.
 
 ## Contact
 - GitHub: https://github.com/chideratagbo28
-- Email: your@email.com
+- Email: chideratagbo28@email.com
